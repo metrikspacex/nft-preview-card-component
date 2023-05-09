@@ -1,14 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <base href="/">
-    <meta charset="UTF-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <base href="/" />
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" />
     <title>Frontend Mentor | NFT preview card component</title>
   </head>
   <body>
-    <h1>hi</h1>
+    <main>
+      <section class="card">
+        <div class="head-overlay">
+          <img
+            alt="clear block balanced on a corner: `equilibrium`"
+            class="head-image"
+            src="/images/image-equilibrium.jpg" />
+          <img alt="eye icon" class="head-view" src="/images/icon-view.svg" />
+        </div>
+
+        <div class="body">
+          <h1 class="body-title">Equilibrium #3429</h1>
+
+          <p class="body-text">
+            Our Equilibrium collection promites balance and calm.
+          </p>
+
+          <div class="body-info-container">
+            <span class="body-info">
+              <img
+                alt="ethereum logo"
+                class="body-info-icon"
+                src="/images/icon-ethereum.svg" />
+              <p class="body-info-text">0.041ETH</p>
+            </span>
+
+            <span class="body-info">
+              <img
+                alt="clock"
+                class="body-info-icon"
+                src="/images/icon-clock.svg" />
+              <p class="body-info-text">3 days left</p>
+            </span>
+          </div>
+        </div>
+
+        <hr class="divider" />
+
+        <div class="foot">
+          <img
+            alt="photo of Jules Wyvern"
+            class="foot-image"
+            src="/images/image-avatar.png" />
+          <h2 class="foot-subheading">
+            <p class="foot-subheading-text">Creation of</p>
+            <p class="foot-subheading-author">&nbsp;Jules Wyvern</p>
+          </h2>
+        </div>
+      </section>
+    </main>
     <script src="/src/main.ts" type="module"></script>
   </body>
 </html>
