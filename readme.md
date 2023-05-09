@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./screenshots/desktop.png)
-![mobile](./screenshots/mobile.png)
+![desktop](./.screenshots/desktop.png)
+![mobile](./.screenshots/mobile.png)
 
 ### Links
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### Continued development
 
--
+- Animations
 
 ## Author
 
