@@ -11,7 +11,7 @@
     ".screenshots": true,
     "dist": true,
     "guide.md": true,
-    "index.html": true,
+    "index.html": false,
     "node_modules": true,
     "package-lock.json": true,
     "package.json": true,
