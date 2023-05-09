@@ -12,7 +12,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
 
@@ -46,13 +45,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://www.typescriptlang.org/) - Typescript
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
--
+- [Typescript](https://www.typescriptlang.org/) - Typescript
 
 ### Continued development
 
